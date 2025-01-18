@@ -12,6 +12,36 @@ from PyPDF2 import PdfReader
 from model import query_gemma2_model  # Import the function from model.py
 import os
 
+# Styling the sidebar and the main content
+st.markdown(
+    """
+    <style>
+
+    /* Sidebar styling */
+    [data-testid="stSidebar"] {
+        background-color: #FFDB58; /* Light Blue  */
+        color: white; /* Text color for sidebar */
+    }
+
+    /* Main content area styling */
+    [data-testid="stAppViewContainer"] {
+        background-color: #FFFFFF; /* White */
+    }
+
+    /* Headers and Subheaders in the main content */
+    h1, h2, h3, h4, h5, h6 {
+        color: #000000; /* Black for headers */
+    }
+
+    /* Text elements in the main content */
+    p {
+        color: #000000; /* Black for paragraph text */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 # --------- STEP 1: Load and Process Legal Documents ---------
 def load_documents(pdf_folder):
     documents = []

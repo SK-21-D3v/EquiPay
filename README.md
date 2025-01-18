@@ -5,19 +5,19 @@
 
 **Basic Flow of the Application:**
 
-![EquiPay Dashboard](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1396).png?raw=true)<br>
+![EquiPay Dashboard](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1405).png?raw=true)<br>
 
-![Pay Gap Detection & Salary Prediction](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1397).png?raw=true)<br>
+![Pay Gap Detection & Salary Prediction](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1406).png?raw=true)<br>
 
-![Pay Gap Detection & Salary Prediction](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1398).png?raw=true)<br>
+![Pay Gap Detection & Salary Prediction](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1407).png?raw=true)<br>
 
-![Pay Gap Detection & Salary Prediction](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1399).png?raw=true)<br>
+![Pay Gap Detection & Salary Prediction](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1408).png?raw=true)<br>
 
-![Appraisal Prediction](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1400).png?raw=true)<br>
+![Appraisal Prediction](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1409).png?raw=true)<br>
 
-![Appraisal Prediction Results](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1401).png?raw=true)<br>
+![Appraisal Prediction Results](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1410).png?raw=true)<br>
 
-![Legal Chatbot](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1402).png?raw=true)<br>
+![Legal Chatbot]()<br>
 
 
 ## Features

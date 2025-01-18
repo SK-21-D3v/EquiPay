@@ -17,7 +17,9 @@
 
 ![Appraisal Prediction Results](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1410).png?raw=true)<br>
 
-![Legal Chatbot]()<br>
+![Legal Chatbot](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1411).png?raw=true)<br>
+
+![Legal Chatbot](https://github.com/SK-21-D3v/EquiPay/blob/main/Screenshot%20(1412).png?raw=true)<br>
 
 
 ## Features
